@@ -22,8 +22,8 @@ Aqui estão alguns dos certificados que possuo:
 
 - **Photoshop**: Mudando um pouco para a parte do Design, Oferecido pela Prime Cursos, em 2019-2020, finalizei o curso de Photoshop pela plataforma da Prime Cursos. 
 
-- **Fundamentos de Banco de Dados**: oferecido pela Microsoft através da plataforma Coursera. Esse curso abordou os conceitos fundamentais e avançados de bancos de dados.
+- **Fundamentos de Banco de Dados**: oferecido pela Microsoft e pela Udemy através da plataforma. Esse curso abordou os conceitos fundamentais e avançados de bancos de dados, tanto como banco de dados relacionais, não-relacionais, MySQL, noSQL entre outras.
 
-- **Programação em Python**: oferecido pelo Instituto Federal de Pernambuco (IFPE) estou cursando o componente curricular de Python e Lógica de programação.
+- **Programação em Python**: oferecido pelo Instituto Federal de Pernambuco (IFPE) estou cursando o componente curricular de Python.
 
 Esses certificados são apenas alguns do que realizei, que atestam que eu concluí os cursos com sucesso e adquiri conhecimento e habilidades em diversas áreas da tecnologia.
