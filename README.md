@@ -18,7 +18,7 @@ Aqui estão alguns dos certificados que possuo:
 
 - **Desenvolvimento Web Completo 2023 - 20 cursos + 20 projetos**: também oferecido pela Udemy através da plataforma, Esse curso me ensinou HTML5, CSS3 Avançado, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais (utilizado para aperfeiçoamento de connhecimento)
 
-- **Lógica de Programação**: Estou cursando o curso de Lógica de Programação no **Instituto Federal de Pernambuco (IFPE) presencialmente**, para adquirir conhecimentos fundamentais sobre programação, como a criação de algoritmos e estruturas de controle de fluxo, que são essenciais para o desenvolvimento de softwares e solução de problemas computacionais.
+- **Lógica de Programação**: Finalizei nos últimos anos meu conhecimento em Lógica de Programação, que é essencial para o Desenvolvimento, e continuarei sempre buscando mais e mais informações e conteúdos sobre o assunto.
 
 - **Photoshop**: Mudando um pouco para a parte do Design, Oferecido pela Prime Cursos, em 2019-2020, finalizei o curso de Photoshop pela plataforma da Prime Cursos. 
 
