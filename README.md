@@ -24,6 +24,6 @@ Aqui estão alguns dos certificados que possuo:
 
 - **Fundamentos de Banco de Dados**: oferecido pela Microsoft e pela Udemy através da plataforma. Esse curso abordou os conceitos fundamentais e avançados de bancos de dados, tanto como banco de dados relacionais, não-relacionais, MySQL, noSQL entre outras.
 
-- **Programação em Python**: oferecido pelo Instituto Federal de Pernambuco (IFPE) estou cursando o componente curricular de Python.
+- **Programação em Python/Java**: oferecido pelo Instituto Federal de Pernambuco (IFPE) estou cursando o componente curricular de Python e Java, atualmente na Programação Orientada a Objetos.
 
 Esses certificados são apenas alguns do que realizei, que atestam que eu concluí os cursos com sucesso e adquiri conhecimento e habilidades em diversas áreas da tecnologia.
