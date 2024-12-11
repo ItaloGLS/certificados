@@ -6,7 +6,7 @@ Olá, tudo bem? me chamo Italo Gabriel, e criei este repositório que contém in
 
 ### 19º Festival Latino-americano de Instalação de Software Livre (FLISoL)
 
-O FLISoL é um evento latino-americano que acontece anualmente desde 2005 e tem como objetivo promover a difusão de software livre na América Latina. Eu participei da edição de 2023, que foi realizada **presencialmente**.
+O FLISoL é um evento latino-americano que acontece anualmente desde 2005 e tem como objetivo promover a difusão de software livre na América Latina. Eu participei da edição de 2023 e de 2024, que foi realizada **presencialmente**.
 
 Nesse evento, assisti a palestras, participei de oficinas e pude interagir com outros participantes. Foi uma experiência enriquecedora, na qual aprendi muito sobre tecnologia e software livre.
 
